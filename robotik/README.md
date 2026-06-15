@@ -110,7 +110,7 @@ Kontrol algoritması basit eşik ve karşılaştırma kurallarına dayanır:
 5. Her döngüde sensör ölçümü, kontrol kararı ve robot hareketi sırasıyla
    gerçekleştirilir.
 
-Bu yaklaşım PID, haritalama, yapay zekâ veya rota planlama içermez. Amaç,
+Bu yaklaşım PID, haritalama, yapay zeka veya rota planlama içermez. Amaç,
 sensör-kontrol-aktüatör ilişkisini açık ve anlaşılır biçimde göstermektir.
 
 # 11. Ekran Görüntüsü Alanı
