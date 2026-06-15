@@ -15,6 +15,9 @@ Robotun sensör ölçümleri, motor hızları ve anlık hareket durumu ekrandaki
 panelinden izlenebilir. Proje; sensör verisinin alınması, kontrol algoritmasıyla
 değerlendirilmesi ve aktüatör komutuna dönüştürülmesi sürecini göstermektedir.
 
+Projede kullanılacak simülasyon ekran görüntüleri ve videosu
+`assets/screenshots/` klasöründedir.
+
 # 3. Kullanılan Sensörler
 
 Robot üzerinde üç sanal ultrasonik mesafe sensörü bulunmaktadır:
@@ -113,12 +116,7 @@ Kontrol algoritması basit eşik ve karşılaştırma kurallarına dayanır:
 Bu yaklaşım PID, haritalama, yapay zeka veya rota planlama içermez. Amaç,
 sensör-kontrol-aktüatör ilişkisini açık ve anlaşılır biçimde göstermektir.
 
-# 11. Ekran Görüntüsü Alanı
-
-Projede kullanılacak simülasyon ekran görüntüleri
-`assets/screenshots/` klasöründe saklanacaktır.
-
-# 12. Ders Bağlamında Değerlendirme
+# 11. Ders Bağlamında Değerlendirme
 
 Bu proje, **Robotik Uygulamalarda Sensör ve Aktüatörler** dersi kapsamında
 sensörlerin çevreden bilgi toplama, kontrol sisteminin karar üretme ve
