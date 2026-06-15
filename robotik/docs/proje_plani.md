@@ -18,7 +18,7 @@ Proje; dikdörtgen engellerin bulunduğu bir simülasyon dünyasını, dairesel 
 robotu, ön-sol-sağ mesafe sensörlerini, diferansiyel sürüş modelini ve basit
 engelden kaçma algoritmasını kapsar. Bilgi panelinde sensör ölçümleri, motor
 hızları ve robotun anlık durumu gösterilir. Haritalama, rota planlama, PID,
-yapay zekâ ve gerçek donanım haberleşmesi kapsam dışındadır.
+yapay zeka ve gerçek donanım haberleşmesi kapsam dışındadır.
 
 ## Kullanılan Teknolojiler
 
