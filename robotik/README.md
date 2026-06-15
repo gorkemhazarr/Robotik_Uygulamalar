@@ -115,20 +115,8 @@ sensör-kontrol-aktüatör ilişkisini açık ve anlaşılır biçimde gösterme
 
 # 11. Ekran Görüntüsü Alanı
 
-Proje tesliminde kullanılacak simülasyon ekran görüntüleri
+Projede kullanılacak simülasyon ekran görüntüleri
 `assets/screenshots/` klasöründe saklanacaktır.
-
-Önerilen dosya adı:
-
-```text
-assets/screenshots/simulasyon_ekrani.png
-```
-
-Ekran görüntüsü eklendikten sonra aşağıdaki satır etkinleştirilebilir:
-
-```markdown
-![Simülasyon ekranı](assets/screenshots/simulasyon_ekrani.png)
-```
 
 # 12. Ders Bağlamında Değerlendirme
 
